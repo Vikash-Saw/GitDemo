@@ -1,5 +1,5 @@
 # GitDemo
 This is my first Git repository. 
 <br>
-Author-Vikash Saw.
+Author-Vikash (IES College)
 
